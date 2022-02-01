@@ -46,7 +46,7 @@ Similarly for math, message `Math Challenges by GRAMOLY#6263` with the following
 m!answer mn@answer
 ```
 
-If you solve a particular day's challenge on that day it-self then you will get access to the channel of that particular day and can discuss the challenge and it's solution there with other felow solvers! 
+If you solve a particular day's challenge on that day itself then you will get access to the channel of that particular day and can discuss the challenge and you may also dicuss it's solution and your method there with other felow solvers! 
 
 
 ## Website
