@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/GRAMOLY-ORG/challenges.gramoly.org/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**GRAMOLY Challenges** is a modern concept, a new platform, and a new route of doing POTD. The challenges brought to you by **GRAMOLY** are daily problems of **STEM** assigned to you by the team which consist of live and interactive rankings, dynamic leaderboards, and points. It will help you become better at problem-solving in a really fun and gamified way. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If this doesn't excite you enough then you will be hooked to learn that due to our powerful servers, the leaderboard will be revised every second!
 
-### Markdown
+Last but not the least, you can attempt it over your favorite social platform, [discord](https://gramoly.org/discord). No more hassle of changing the platform. Although, don't be afraid if you aren't active on discord. You can very well attempt it over the website as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Features
 
-```markdown
-Syntax highlighted code block
+## Gamification
+We have Integrated the technology with problem-solving by constructing a dynamic live database that will produce an on the go revised list of solvers with ranking and points which in turn will help you to gauge your preparation compared to other students in a really fun and gamified way.  
+  
 
-# Header 1
-## Header 2
-### Header 3
+## Multiplatform support
 
-- Bulleted
-- List
+According to our survey, we found that most of the users connected to us are active users of discord. Therefore, we brought challenges on discord for your convenience. Combined with discord API, the challenges can be attempted over discord or website, mobile or computer.  
+  
 
-1. Numbered
-2. List
+## Interface
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GRAMOLY-ORG/challenges.gramoly.org/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Front-end framed using the bootstrap framework, this ravishing and interactive interface delivers you an effortless and 24/7 access to the problems, leaderboards, and many more such things. Most importantly, All the problems are sorted according to their topics so that you can find any problems at ease.
