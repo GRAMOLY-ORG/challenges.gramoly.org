@@ -1,3 +1,6 @@
+<h1 align="center">
+    This is Temporary website we will update soon!</h1>
+    
 # Introduction
 
 **GRAMOLY Challenges** is a modern concept, a new platform, and a new route of doing POTD. The challenges brought to you by **GRAMOLY** are daily problems of **STEM** assigned to you by the team which consist of live and interactive rankings, dynamic leaderboards, and points. It will help you become better at problem-solving in a really fun and gamified way. 
