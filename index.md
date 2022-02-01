@@ -1,5 +1,5 @@
 <h1 align="center">
-    This is website is temporary, we will update it soon!</h1>
+    This website is temporary, we will update it soon!</h1>
     
 # Introduction
 
