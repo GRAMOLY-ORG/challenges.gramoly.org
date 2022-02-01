@@ -52,8 +52,8 @@ If you solve a particular day's challenge on that day itself then you will get a
 ## Website
 
 If you do not use discord then you can submit and take part in challenges from our website
-for math challenges: https://math-challenges.gramoly.org/ 
-for physics challenges: https://physics-challenges.gramoly.org/
+for math challenges: [https://math-challenges.gramoly.org/](https://math-challenges.gramoly.org/ )
+for physics challenges: [https://physics-challenges.gramoly.org/](https://physics-challenges.gramoly.org/)
 
 First create an account, and verify your email. You can also link your discord account and then can solve from any platform, Discord or Website. If you connect your account after solving a few challenges on website and a few on discord then the account with the highest points will be shown on the Leaderboard.
 
