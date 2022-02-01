@@ -56,4 +56,5 @@ First create an account, and verify your email. You can also link your discord a
 
 **Submitting answers:**
 To submit an answer to a challenge go to [/Challenges](https://math-challenges.gramoly.org/Challenges) for math and [/Challenges](https://physics-challenges.gramoly.org/Challenges) for physics and write your answer in the bar shown below. The answer format will be mentioned in the every challenge. 
+
 ![image](https://user-images.githubusercontent.com/76247922/151993852-7ae9b6c2-b037-4d76-8fe5-3ad25e059a07.png)
